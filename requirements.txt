@@ -1,0 +1,5 @@
+pytest
+transformers 
+faiss-cpu
+flask 
+torch
